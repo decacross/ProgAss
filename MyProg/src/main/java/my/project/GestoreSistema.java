@@ -8,7 +8,7 @@ public class GestoreSistema {
 		
 	}
 	
-	public void loginGestoreSistema(String cf, String c) { 
+	public void loginGestoreSistema(String cf, String c) {
 		
 	}
 	
