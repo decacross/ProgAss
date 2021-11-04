@@ -8,7 +8,7 @@ public class Elettore{
 		
 	}
 	
-	public void loginElettore(String cf, String c) {
+	public void loginElettore(String cf, String c) { 
 		
 	}
 	
